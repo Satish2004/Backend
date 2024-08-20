@@ -1,0 +1,17 @@
+{
+  "name": "nws",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Chandra",
+  "license": "ISC",
+  "dependencies": {
+    "@faker-js/faker": "^8.4.1",
+    "mysql2": "^3.11.0",
+    "nodemon": "^3.1.4"
+  }
+}
